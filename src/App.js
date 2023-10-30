@@ -41,7 +41,7 @@ const App = () => {
     <div className="main_div">
       <div className="center_div">
         <br />
-        <h1> ToDo List For hacktobarfast </h1>
+        <h1> ToDo List For hackerfest </h1>
          <br />
          < input type="text" placeholder="Add Items" onChange={itemEvent}
          value={inputList}/> 
